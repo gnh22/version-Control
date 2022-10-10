@@ -4,6 +4,8 @@ This program uses Python to do a few things:
 2. Prints your name
 3. Prints the square of the number 
 
+Below is a sample of the program running.
+
 ![num = int (input (Enter your favorite number))](https://user-images.githubusercontent.com/114427708/194906061-3822a4ec-24aa-43a2-80b5-64a5ac260e8e.jpeg)
 
 
