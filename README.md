@@ -9,11 +9,12 @@ Below is a sample of the program running using JupyterLab.
 ![num = int (input (Enter your favorite number))](https://user-images.githubusercontent.com/114427708/194906061-3822a4ec-24aa-43a2-80b5-64a5ac260e8e.jpeg)
 
 # Using the Program in JupyterLab
-1. Log into JupyterHub and start a terminal
+***Before you begin, Python must be installed on your computer***
+1. Open a new terminal
 2. Type in git clone https://github.com/gnh22/version-Control.git and hit the enter key
-3. This should download a folder to your JupyterHub with the lab (it should be called version-Control)
-4. Double click the new folder in the file explorer. You should see the lab contents.
-5. Now you can run the program!
+4. This should download a folder called version-Control
+5. Double click the new folder in the file explorer. You should see the lab contents.
+6. Now you can run the program!
 
 # How to Contribute
 ***All contributes should be made in allowance to the [code of conduct](https://github.com/gnh22/version-Control/blob/main/CODE-OF-CONDUCT.md):***
