@@ -16,7 +16,7 @@ Below is a sample of the program running using JupyterLab.
 5. Now you can run the program!
 
 # How to Contribute
-***All contributes should be made in allowance to the [code of conduct](https://github.com/gnh22/version-Control/blob/main/CODE-OF-CONDUCT.md):
+***All contributes should be made in allowance to the [code of conduct](https://github.com/gnh22/version-Control/blob/main/CODE-OF-CONDUCT.md):***
 1. Make a fork
 2. Submit a pull request
 
