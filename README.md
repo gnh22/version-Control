@@ -11,5 +11,5 @@ Below is a sample of the program running using JupyterLab.
 # [License](https://github.com/gnh22/version-Control/blob/main/LICENSE.md):
 We, Grace Hines and Austin Gohn, chose this license because this is very simple code and we do not care what changes other people make.
 
-# Code of Conduct:
+# [Code of Conduct](https://github.com/gnh22/version-Control/blob/main/CODE-OF-CONDUCT.md):
 We, Grace Hines and Austin Gohn, chose this code of conduct to ensure that everyone is treated with respect, and so that there will be consequences if someone violates those rules 
